@@ -1,0 +1,23 @@
+* {
+    margin: 0 auto;
+}
+
+
+
+.container {
+    margin-top: 100px;
+    background-color: aqua;
+    height: 300px;
+    width: 500px;
+    border: 2px solid black
+}
+
+.User {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+button {
+    background-color: yellow;
+}
